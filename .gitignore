@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+# Dependencies are copied from MBTI-in-Thoughts, but can be regenerated
+# Uncomment the line below if you want to ignore dependencies in git
+# dependencies/

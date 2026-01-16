@@ -1,0 +1,23 @@
+# MBTI Regulator Experiment Requirements
+# Python 3.11.5+
+
+# Core LangChain dependencies
+langchain>=0.1.0
+langchain-openai>=0.1.0
+langchain-community>=0.0.20
+langgraph>=0.0.20
+
+# Data processing
+pandas>=2.0.0
+pydantic>=2.0.0
+
+# Environment and API
+python-dotenv>=1.0.0
+openai>=1.0.0
+httpx>=0.25.0
+
+# Optional but recommended
+numpy>=1.24.0
+
+# Note: This project depends on MBTI-in-Thoughts project
+# Make sure MBTI-in-Thoughts is installed or accessible
